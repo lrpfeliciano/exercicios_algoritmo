@@ -1,5 +1,5 @@
 
-from EscolaFuncoes import cadastrar, listagem, mensagem, mensagem_personalizada
+from EscolaFuncoes import *
 
 
 vetor = []
